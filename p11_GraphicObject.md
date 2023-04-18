@@ -126,10 +126,10 @@ Utilice lo que haya aprendido de CSS para dotar de estilo propio a las páginas 
 desarrolle.
 
 ## Referencias
-* [TypeDoc](https://typedoc.org/)
+* [PAI Code Examples](https://github.com/ULL-ESIT-PAI-2022-2023/PAI-class-code-examples)
+* [The Modern Javascript Tutorial](https://javascript.info)
 * [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [ESLint](https://eslint.org/)
+* [TypeDoc](https://typedoc.org/)
 * [JSDoc](https://jsdoc.app/)
-* [The Modern Javascript Tutorial](https://javascript.info)
-* [PAI Code Examples](https://github.com/ULL-ESIT-PAI-2022-2023/PAI-class-code-examples)
