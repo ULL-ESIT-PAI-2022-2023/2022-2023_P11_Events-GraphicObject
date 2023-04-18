@@ -1,4 +1,5 @@
-# Práctica 11. Programación Gráfica y Orientada a Eventos. HTML. Canvas. Movimiento y control de un objeto gráfico.
+# Práctica 11. Gráficos, Objetos y Eventos en TypeScript. Movimiento y control de un Objeto Gráfico.
+
 ### Factor de ponderación: 9
 
 ### Objetivos
@@ -80,7 +81,7 @@ y un panel con cuatro botones que permiten mover el círculo hacia arriba, abajo
 y derecha.
 
 [![App
-GUI](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P12-GraphicObject/master/bola.png)
+GUI](https://raw.githubusercontent.com/ULL-ESIT-PAI-2022-2023/2022-2023_P11_Events-GraphicObject/main/img/bola.png)
 
 La imagen anterior muestra el posible aspecto (básico) de la interfaz del programa a realizar.
 
